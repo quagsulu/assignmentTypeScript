@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Trà Sữa Kim Cương Đen Okinawe",
+      "price": 10000,
+      "image": "./upload/img/product/ts2.jpg",
+      "description": "Description 1 update",
+      "categories": 2
+    },
+    {
+      "id": 2,
+      "name": "Trà sữa hạnh phúc",
+      "price": 200,
+      "image": "./upload/img/product/ts4.jpg",
+      "description": "Description 2",
+      "categories": 2
+    },
+    {
+      "id": 4,
+      "name": "Trà sữa hạnh phúc",
+      "price": 200,
+      "image": "./upload/img/product/ts3.jpg",
+      "description": "Description 2",
+      "categories": 2
+    },
+    {
+      "id": 5,
+      "name": "Trà sữa hạnh phúc",
+      "price": 200,
+      "image": "./upload/img/product/ts2.jpg",
+      "description": "Description 2",
+      "categories": 2
+    },
+    {
+      "id": 3,
+      "name": "Trà sữa Panda",
+      "price": 300,
+      "image": "./upload/img/product/ts1.jpg",
+      "description": "Description 3",
+      "categories": 2
+    },
+    {
+      "id": 6,
+      "name": "Trà sữa Panda",
+      "price": 300,
+      "image": "./upload/img/product/ts1.jpg",
+      "description": "Description 3",
+      "categories": 2
+    },
+    {
+      "id": 7,
+      "name": "Trà sữa Panda",
+      "price": 300,
+      "image": "./upload/img/product/ts1.jpg",
+      "description": "Description 3",
+      "categories": 2
+    },
+    {
+      "id": 8,
+      "name": "Trà sữa Panda",
+      "price": 300,
+      "image": "./upload/img/product/ts1.jpg",
+      "description": "Description 3",
+      "categories": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Danh muc 1"
+    },
+    {
+      "id": 2,
+      "name": "Danh muc 2"
+    }
+  ],
+  "users": [
+    {
+      "name": "adminnnnaaaam",
+      "email": "quangnvah@gmail.comm",
+      "password": "aaaaaaaa",
+      "id": 2,
+      "roleId": 2
+    },
+    {
+      "name": "adminnnnnnnnnnnnsdgfj",
+      "email": "quangnvph24106@fpt.edu.vn",
+      "password": "aaaaaaaa",
+      "id": 3
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "admin"
+    },
+    {
+      "id": 2,
+      "name": "user"
+    }
+  ]
+}

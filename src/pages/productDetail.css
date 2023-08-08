@@ -1,0 +1,34 @@
+.container_prd_detail{
+    display: flex;
+    width: 700px;
+     height: 500px;
+     border: 1px solid gray;   margin: auto;
+     border-radius: 20px;
+     box-shadow: 10px 10px 50px;
+     padding: 20px;
+}
+.prd_title_detail{
+    width: 100%;
+    text-align: center;
+    color: red;
+    font-size: 48px;
+}
+.imgDetail{
+    margin: auto;
+}
+.imgDetail img{
+    width: 300px;
+    height: auto;
+}
+.group{
+    margin: 10px ;
+    text-align: left;
+    padding: 10px;
+}
+.group p{
+    font-weight: 600;
+font-size: 18px;
+}
+p>span{
+    font-weight: 900;
+}
